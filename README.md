@@ -5,3 +5,6 @@ Viotrack is a violation management system designed for school administrators to 
 - I learned how to connect code using parameters.
 - I learned how to keep track of which key already has a violation to avoid duplicates.
 - I learned how to display multiple database tables in one table view.
+
+## Screenshot
+![Viotrack Screenshot](scr2.png)
